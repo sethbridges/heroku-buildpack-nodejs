@@ -30,7 +30,7 @@ run_npm() {
 unset GIT_DIR
 
 # config
-NODE_VERSION="0.6.7"
+NODE_VERSION="0.6.6"
 NPM_VERSION="1.1.1"
 SCONS_VERSION="1.2.0"
 S3_BUCKET="heroku-buildpack-nodejs"
